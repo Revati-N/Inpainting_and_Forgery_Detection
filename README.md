@@ -9,7 +9,7 @@ The model files required for execution were not uploaded to GitHub due to size c
 Before running the UI, please follow these steps:
 
 1. **Download the Model File:**
-   - Open the following Google Drive link: [Insert Drive Link Here]
+   - Open the following Google Drive link: <a href = "https://drive.google.com/drive/folders/1xo4o9mLZvuaqb6WTnEeLHEWVQoN5iz6t?usp=sharing"> Link </a>
    - Navigate to the `6000` folder.
    - Download the `classifier.h5` file and place it in the appropriate directory within the project.
 
