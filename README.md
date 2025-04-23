@@ -1,4 +1,4 @@
-# Project Title
+# Inpainting and Forgery Detection
 
 ## Overview
 The goal is to design and implement a Deep Learning framework using python for image inpainting and forgery detection. The inpainting model will analyze and replicate surrounding pixels to create realistic image modifications, maintaining a natural appearance. The forgery detection model will identify and localize manipulated areas, ensuring image authenticity. Together, these models enhance digital image reliability for both manipulation and verification.
@@ -10,8 +10,7 @@ Before running the UI, please follow these steps:
 
 1. **Download the Model File:**
    - Open the following Google Drive link: <a href = "https://drive.google.com/drive/folders/1xo4o9mLZvuaqb6WTnEeLHEWVQoN5iz6t?usp=sharing"> Link </a>
-   - Navigate to the `6000` folder.
-   - Go to the `35` folder.
+   - Navigate to the `Hyper-tuned` folder.
    - Download the `classifier.h5` file and place it in the appropriate directory within the project.
 
 ## Running the UI
