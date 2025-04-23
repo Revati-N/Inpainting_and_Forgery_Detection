@@ -4,7 +4,7 @@ import numpy as np
 from PIL import Image
 
 # Load the model
-model = tf.keras.models.load_model("C:/Users/revna/Desktop/Github/Inpainting_and_Forgery_Detn/Models/6000/classifier_model.h5")
+model = tf.keras.models.load_model("Models/50/classifier_model.h5")
 
 def preprocess_image(image):
     image = image.resize((128, 128))  # Resize to match model input shape
